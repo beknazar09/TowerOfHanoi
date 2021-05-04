@@ -5,3 +5,6 @@ And there is a link to the game
 
 
 [TowerOfHanoi](http://github.com)
+
+
+Urmatbek Nusubalie and Akhmatzhanov Beknazar
